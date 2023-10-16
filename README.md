@@ -3,6 +3,9 @@
 
 Hi, my name is Chriss Godden, junior front-end web developer and basketball player/lover. I really enjoy javascript frameworks such as React and Typescript
 I'm a big anime and movie lover.  I also have a passion for the game of basketball even having had a short-term career in it
+Check out my LinkedIn at: https://www.linkedin.com/in/chriss-godden-300aa0254/
+Twitter: https://twitter.com/chriss_godden
+Medium: https://medium.com/@chrissgodden
 
 - 🔭 Skills: NODE JS / REACT / JS / HTML / CSS / FIREBASE / EXPRESS JS / TYPESCRIPT / NEXT JS / REACT NATIVE
 - 👾 lookingForJobsIn ["Front-end Web Development", "Reactjs", "NodeJS", "Full-Stack Web Development", "Next JS"]
